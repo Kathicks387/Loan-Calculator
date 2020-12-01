@@ -1,3 +1,7 @@
 body {
   background: darkgrey;
 }
+
+#loading, #results {
+  display: none;
+}
